@@ -7,6 +7,6 @@
 
 int main()
 {
-    puts("Hello");
+    puts("Hello");  // Add comment to the line
     puts("there");
 }
